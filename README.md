@@ -1,8 +1,6 @@
 ## Hi there 👋
 ###
-<p align="center">
-  🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
-   </p>
+
 <p align="center">
 <a href="https://www.buymeacoffee.com/Enigma-de_" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
 <a href="https://discord.com/users/Enigma-de_#1528" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
@@ -311,16 +309,8 @@ public class CodeBite {
 
 
 ####
-<br clear="both">
-<p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
- <p align="center">
-  <a href="https://jrohit.com.np/" target="_blank">
-    <img src="https://github.com/Enigma-de/Enigma-de/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
-  </a>
 
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://raw.githubusercontent.com/Enigma-de/Enigma-de/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" />
-  </a>
+ 
 
   <a href="https://jrohit.com.np" target="_blank">
     <img src="https://raw.githubusercontent.com/Enigma-de/Enigma-de/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
