@@ -37,9 +37,7 @@
 </p>
 
 
-<!-- <p align="center">
-  <a href="https://github.com/Enigma-de"><img src="contributions.svg"></a> -->
-</p>
+
 
 <br/>
 
@@ -267,12 +265,7 @@
   <summary>Skills</summary>
   
 - Problem Solving
-- Youtuber
-- Blogging
-- Web Content Writing
-- Video Editing
-- Blogger
-- Researching & Learning
+
 </details>
 
 
@@ -284,7 +277,7 @@
 
 
 
-####
+
 
  
 
