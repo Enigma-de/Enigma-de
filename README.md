@@ -278,33 +278,9 @@
 
 
 
-``` 
-public class CodeBite {
-    public static void main(String[] args) {
-        // 🚀 Striving for perfection, one line of code at a time.
-        while (codeQuality < perfection) {
-            codeQuality++; // Incrementing code quality 🔝
-        }
-
-        // 🌟 Lifelong coder on a journey of constant improvement.
-        while (alive) {
-            eat();  // Fuel for the coding engine 🍕
-            sleep();  // Recharging for epic code adventures 💤
-            code();  // Crafting software magic ✨
-        }
-
-        // 👨‍💻 Proudly crafting elegant solutions in the digital realm.
-        // - RJ's
-    }
-```
 
 
 
-<div align="center">
-    <i style="font-size: 10px;">
-        "Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"
-    </i>
-</div>
 
 
 
@@ -312,26 +288,7 @@ public class CodeBite {
 
  
 
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://raw.githubusercontent.com/Enigma-de/Enigma-de/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
-  </a>
 
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/Enigma-de/Enigma-de/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/Enigma-de/Enigma-de/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/Enigma-de/Enigma-de/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/Enigma-de/Enigma-de/blob/master/book.gif?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/Enigma-de/Enigma-de/blob/master/music.gif?raw=true" alt="Azure" width="40" height="40"" />
-  </a>
   
  </p>
 
@@ -358,4 +315,4 @@ public class CodeBite {
 </div>
 
 
-<img src="https://github.com/Enigma-de/Enigma-de/blob/master/line-neon.gif" width="100%"> 
+
