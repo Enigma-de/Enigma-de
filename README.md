@@ -22,10 +22,7 @@
   <img src="https://profile-counter.glitch.me/Enigma-de/count.svg"/>
   </p>
 
-
-<p align="center"> 
-<img align="center" width="500px" src="@/../page-insights.svg" alt="Github Insight"/>
-</p>  
+ 
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enigma-de&theme=gotham&layout=compact"width="40%"/> 
