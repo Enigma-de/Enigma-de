@@ -8,7 +8,7 @@
 <a href="https://twitter.com/Enigma-de_" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/aayusha-regmi-00935133a/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/Enigma-de_" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
-<a href="https://hashnode.com/Enigma-de" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=hashnode&logoColor=000000" style="vertical-align:center" /></a>
+<a href="https://hashnode.com/Enigma-de" target="_blank"><img alt="" src="https://img.shields.io/badge/hashnode-000?style=for-the-badge&logo=hashnode&logoColor=000000" style="vertical-align:center" /></a>
 <a href="https://codepen.io/Enigma-de_" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
 <a href="https://www.youtube.com/@" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube%20-000?style=for-the-badge&logo=youtube&logoColor=red" style="vertical-align:center" /></a>
 <a href="mailto:Enigma-de@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
