@@ -5,7 +5,7 @@
 <a href="https://buymeacoffee.com/aayusha" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
 <a href="https://discord.com/users/aayusha1410" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
 <a href="https://aayusharegmi.com.np" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://twitter.com/Enigma-de_" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://twitter.com/Aayusha-Regmi_" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/aayusha-regmi-00935133a/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://hashnode.com/@Aayusha" target="_blank"><img alt="" src="https://img.shields.io/badge/hashnode-000?style=for-the-badge&logo=hashnode&logoColor=000000" style="vertical-align:center" /></a>
 <a href="https://codepen.io/Aayusha-Regmi" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
@@ -17,17 +17,17 @@
 ### 
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
-  <img src="https://profile-counter.glitch.me/Enigma-de/count.svg"/>
+  <img src="https://profile-counter.glitch.me/Aayusha-Regmi/count.svg"/>
   </p>
 
  
   
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enigma-de&theme=gotham&layout=compact"width="40%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayusha-Regmi&theme=gotham&layout=compact"width="40%"/> 
 </p>
 
 <p align="center">
-<a href="https://github.com/Enigma-de?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Enigma-de&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Enigma-de github-readme-stats"/></a>
+<a href="https://github.com/Aayusha-Regmi?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Aayusha-Regmi&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Aayusha-Regmi github-readme-stats"/></a>
 
 </p>
 
@@ -169,15 +169,15 @@
 <!-- activity graph heroku-app start -->
 <p align="center">
     <a href="#">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Enigma-de&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayusha-Regmi&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
 </p>
 <!-- activity graph heroku-app end -->
 
 
 <p align="center">
-    <a href="https://github.com/Enigma-de/Enigma-de">
-        <img src="https://github-profile-trophy.vercel.app/?username=Enigma-de&column=-1&theme=dracula&layout=compact"width="95%"/> 
+    <a href="https://github.com/Aayusha-Regmi/Aayusha-Regmi">
+        <img src="https://github-profile-trophy.vercel.app/?username=Aayusha-Regmi&column=-1&theme=dracula&layout=compact"width="95%"/> 
 </p>
 
 
